@@ -6,3 +6,5 @@ WordPress Developer & Open Source Contributor
 WordPress • WooCommerce • PHP • Plugins • Open Source
 
 Building practical tools, contributing to WordPress, and occasionally breaking things just to understand how they work.
+
+WordPress contributor since 2011.
